@@ -1,21 +1,19 @@
 # IT-Repository
 
-## 目录
+## c
+- 
+## c++
+- 
+## python
+- 
+## java
 
-### c
+## jupyter 
 - 
-### c++
+## R
 - 
-### python
+## ruby
 - 
-### java
-
-### jupyter 
+## GO
 - 
-### R
-- 
-### ruby
-- 
-### GO
-- 
-### rust
+## rust
